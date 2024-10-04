@@ -4,16 +4,35 @@
 }
 
 .cabeçalho{
-    margin: 20px 35px;
-    background-color: white;
-    border-radius: 5px
+    margin: 50px 35px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(43, 5, 131);
+    border-radius: 20px;
+
 }
 
 .logo{
-    width: 80px;
+    width: 50px;
     margin: 10px 15px;
 }
 
 .nome-do-site{
     font-size: 45px;
+    color: white;
 }
+
+.itens{
+    color: white;
+}
+
+.Categorias{
+    color: white;
+    margin: 55px 45px 6px;
+}
+
+hr{
+margin: 0px 30px 20px 30px;
+}
+
