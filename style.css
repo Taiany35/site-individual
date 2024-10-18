@@ -36,3 +36,53 @@ hr{
 margin: 0px 30px 20px 30px;
 }
 
+.tecnologia{
+    background-color:white;
+    color:rgb(44, 7, 179);
+    border-radius: 15px;
+    padding: 5px 20px;
+}
+
+.Educação{
+    background-color:transparent;
+    color:black;
+    border-radius: 15px;
+    padding: 5px 20px;
+}
+
+.Saúde{
+    background-color:transparent;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 20px;
+}
+
+.Finanças{
+    background-color:transparent;
+    color: black;
+    border-radius: 15px;
+    padding: 5px 20px;
+}
+
+.case-studies{
+    background-color:transparent;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 20px;
+}
+
+.topicos{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.produtos{
+    display: flex;
+}
+
+.produto p{
+    background-color: blue;
+    color: antiquewhite;
+    padding: 5px 10px;
+}
