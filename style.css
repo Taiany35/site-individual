@@ -91,19 +91,13 @@ margin: 0px 30px 20px 30px;
 
 .produto h1{
     color: black;
-    padding: 5px 10px;
+    padding: 15px 5px;
     color: white;
 }
 
 .img-1{
-    width: 300px;
-}
-
-.img-2{
-    width: 300px;
-}
-.img-3{
-    width: 300px;
+    width: 400px;
+    border-radius: 30px 30px 0px 0px;
 }
 
 .Button-1{
@@ -120,6 +114,36 @@ margin: 0px 30px 20px 30px;
     background-color: rgb(11, 203, 37);
     color: white;
     padding: 4px 8px;
+}
+
+.produto{
+    background-color: darkblue;
+    border-radius: 30px;
+    border: solid 2px black;
+    text-align: center;
+}
+
+.informações{
+    justify-content: space-around;
+    display: flex;
+    padding: 15px 15px;
+}
+
+.preço{
+    justify-content: space-around;
+    display: flex;
+}
+
+.modelo{
+    justify-content: space-around;
+    display: flex;
+}
+
+.C-3{
+    width: 24px;
+}
+.ET{
+    width: 20px;
 }
 
 
